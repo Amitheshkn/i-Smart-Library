@@ -1,0 +1,71 @@
+
+ body{
+  font-family: 'Open Sans', sans-serif;
+  background-size: center;
+ background-image: url(../ss4.jpg);
+  background-size:100% ;
+  margin: 0 auto 0 auto;  
+  width:100%; 
+  text-align:center;
+  margin: 0 auto 0 auto;   
+}
+
+
+.logo img
+{
+	 
+	 width: 400px;
+	 height: 100px;
+}
+
+.button{
+   background:rgb(26,214,234,0.93);
+   font-family:sans-serif;
+	width:350px;
+	height:80px;
+    border-radius: 70%;
+	border-background-color: rgb(0,0,0,1) ;
+		}
+.button1{
+	position:absolute;
+	top:20%;
+	left:40%;
+	
+}
+.button2{
+      position:absolute;
+	  top:40%;
+		left:40%;
+		
+}
+.button3{
+	position:absolute;
+	top:60%;
+	left:40%;
+	
+}
+.button4{
+	position:absolute;
+	top:80%;
+	left:40%;
+	
+}
+.button5{
+	position:absolute;
+	top:50%;
+	left:70%;
+	
+}
+.button6{
+	position:absolute;
+	top:30%;
+	left:70%;
+	
+}
+.label{
+	position:absolute;
+	top:17%;
+	left:90%;
+	background:rgb(255,255,255);
+	border-background-color: rgb(0,0,0,1)
+}

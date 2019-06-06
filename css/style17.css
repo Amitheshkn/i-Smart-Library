@@ -1,0 +1,33 @@
+body{
+  font-family: 'Open Sans', sans-serif;
+  background-size: center;
+ background-image: url(../login.jpg);
+  background-size:100% ;
+  margin: 0 auto 0 auto;  
+  width:100%; 
+  text-align:center;
+  margin: 0 auto 0 auto;   
+}
+
+.h2{
+	background-color:#ffffff82;
+}
+
+
+.register{
+	background:#ffffff82;
+  width:400px;
+  border-radius:10px;
+  margin: 0 auto 0 auto;
+  padding:0px 0px 40px 0px;
+  border: #ffffff82 2px; 
+  top: 100px;
+    right: 0px;
+	position: fixed;
+}
+.logo img
+{
+	 
+	 width: 400px;
+	 height: 100px;
+}

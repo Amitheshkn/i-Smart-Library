@@ -1,0 +1,68 @@
+
+ body{
+  font-family: 'Open Sans', sans-serif;
+  background-size: center;
+ background-image: url(../loki.jpg);
+  background-size:100% ;
+  margin: 0 auto 0 auto;  
+  width:100%; 
+  text-align:center;
+  margin: 0 auto 0 auto;   
+}
+
+ 
+
+.logo img
+{
+     	 
+	 
+	 width: 550px;
+	 height: 150px;
+	 position: fixed;
+    top: 0px;
+    right: 450px;
+}
+
+.button{
+   background:rgb(253, 151, 140, 0.78);
+   font-family:sans-serif;
+	width:250px;
+	height:40px;
+
+	border-background-color: rgb(0,0,0,1) ;
+}
+.button1{
+	position:absolute;
+	top:24%;
+	left:10%;
+	
+}
+.button2{
+      position:absolute;
+	  top:24%;
+		left:30%;
+		
+}
+.button3{
+      position:absolute;
+	  top:24%;
+		left:50%;
+		
+}
+.button4{
+      position:absolute;
+	  top:24%;
+		left:70%;
+		
+}
+
+		
+}
+.label{
+	background:rgb(197, 255, 122, 0.81);
+	position:absolute;
+	top:1%;
+	right:1%;
+	
+}
+

@@ -1,0 +1,37 @@
+
+ body{
+  font-family: 'Open Sans', sans-serif;
+  background-size: center;
+ background-image: url(../life.jpg);
+ background-repeat:none;
+  background-size:100% ;
+  margin: 0 auto 0 auto;  
+  width:100% ; 
+  text-align:center;
+  margin: 0 auto 0 auto; 
+	color:white;
+}
+
+ 
+#profile{
+	float:right;
+	text-align:center;
+}
+
+.logo img
+{
+	 width: 400px;
+	 height: 100px;
+}
+.map 
+{position: fixed;
+  bottom: 1px;
+    right: 35%;
+	height : 350px;
+	
+	 
+
+}
+	
+
+

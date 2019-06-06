@@ -1,0 +1,51 @@
+<html> 
+<style>
+form{
+	background:#ffffff82;
+  width:300px;
+  border-radius:10px;
+  margin: 0 auto 0 auto;
+  padding:23px 0px 70px 0px;
+  border: #ffffff82 ;
+  
+}
+</style>
+<head>
+	 <title>ADD BOOKS</title>
+	 <link rel="stylesheet" href="css/style9.css">
+</head>
+    <body >
+	
+	    <div class="">
+		     <div class="logo">
+		         <a href="adminhome.html">  <img src="SMATY.jpg" align="right"></a>
+		     </div> 
+    	<form class = "oppo" method="post" action="addbook.php">
+    	    
+    		    <h2>ADD BOOKS DETAILS BELOW</h2>
+    		    <label><b>BOOK NAME :</b></label> <br>
+    		    <input type="text" name="book_name"  placeholder="Enter book name" required> <br> <br>
+    		    <label><b>EDITION  :</b></label> <br>
+    		    <input type="text" name="edition"  placeholder="Enter the edition"> <br> <br>
+    		    <label> <b>AUTHOR :</b></label> <br>
+    		    <input type="text" name="author"  placeholder="Enter the author name"> <br> <br>
+    		    <label><b>GENRE</b></label> <br>
+    		    <input type="text" name="genre" placeholder="Enter the genre"> <br><br>
+				<label id="add"><b>SECTION</b></label> <br>
+    		    <input type="text" name="section" placeholder="Enter the section" required> <br><br>
+				<label><b>COLUMN NUMBER</b></label> <br>
+    		    <input type="text" name="column_name" placeholder="Enter column number" required> <br><br>
+    		    <label><b>ROW NUMBER</b></label> <br>
+    		    <input type="text" name="row" placeholder="Enter row number"required><br><br>
+				<label><b>AVAILABILITY</b></label><br>
+				<label><input type="checkbox" name="act" value="AVAILABLE" />AVAILABLE</label>
+				<label><input type="checkbox" name="act" value="NOT AVAILABLE" />NOT AVAILABLE</label><br>
+						
+			<value="submit">
+			 <a href="login.html"><button>submit</button></a>
+		 </form>
+       
+</div>
+    </body>
+
+</html>

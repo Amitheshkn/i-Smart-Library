@@ -1,0 +1,34 @@
+body{
+  font-family: 'Open Sans', sans-serif;
+  background-size: center;
+ background-image: url(../sss9.jpg);
+  background-size:100% ;
+  margin: 0 auto 0 auto;  
+  width:100%; color:black;
+  text-align:center;
+  margin: 0 auto 0 auto;   
+}
+
+
+.logo img
+{
+ width: 400px;
+	 height: 100px;	
+}
+
+.submit{
+	width:10px;
+	height:10px;
+}
+
+.oppo{
+	background:#ffffff82;
+  width:400px;
+  border-radius:10px;
+  margin: 0 auto 0 auto;
+  padding:23px 0px 70px 0px;
+  border: #ffffff82 ;
+  position: fixed;
+  top: 100px;
+    right: 0px;
+}
