@@ -3,8 +3,8 @@
 $servername = "localhost";
 $username = "root";
 $password = "";
-$dbname = "bike-service";
-$bookname = $_POST [ 'bookname'];
+$dbname = "ismartlibrary";
+$bookname = $_POST ['bookname'];
 
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbname);
