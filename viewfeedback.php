@@ -4,7 +4,7 @@
 $servername = "localhost";
 $username = "root";
 $password = "";
-$dbname = "bike-service";
+$dbname = "ismartlibrary";
 
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbname);
