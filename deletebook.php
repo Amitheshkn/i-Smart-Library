@@ -2,13 +2,10 @@
 
  $booknamed=$_POST['booknamed'];
  $auth=$_POST['auth'];
-
-
-
-$servername = "localhost";
-$username = "root";
-$password = "";
-$dbname = "bike-service";
+ $servername = "localhost";
+ $username = "root";
+ $password = "";
+ $dbname = "ismartlibrary";
 
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbname);
