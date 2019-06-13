@@ -3,13 +3,10 @@
  $book_named=$_POST['book_named'];
  $avail=$_POST['act1'];
  $e=$_POST['authors'];
-
-
-
 $servername = "localhost";
 $username = "root";
 $password = "";
-$dbname = "bike-service";
+$dbname = "ismartlibrary";
 
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbname);
